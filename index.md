@@ -12,4 +12,4 @@ title: KOSHISTA//WARS サポート
 
 ## クレジット
 
-バトルBGM・効果音の一部は Stable Audio で作成しています（Powered by Stability AI）。
+バトルBGMと効果音の一部は Stable Audio で作成しています（Powered by Stability AI）。
